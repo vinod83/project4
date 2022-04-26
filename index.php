@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>My first github</h1>
-    <p></p>
+    <p>Master</p>
 </body>
 </html>
