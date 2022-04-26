@@ -7,7 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>My first github</h1>
-  
+    <h2>about us page</h2>
 </body>
 </html>
